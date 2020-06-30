@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RootLazer", "RootLazer.csproj", "{59A877C4-F50E-DD94-C000-982CAF133559}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RootLazer.Editor", "RootLazer.Editor.csproj", "{1899EAA4-2352-8FA6-F049-E97A02FE53FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59A877C4-F50E-DD94-C000-982CAF133559}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59A877C4-F50E-DD94-C000-982CAF133559}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59A877C4-F50E-DD94-C000-982CAF133559}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59A877C4-F50E-DD94-C000-982CAF133559}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1899EAA4-2352-8FA6-F049-E97A02FE53FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1899EAA4-2352-8FA6-F049-E97A02FE53FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1899EAA4-2352-8FA6-F049-E97A02FE53FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1899EAA4-2352-8FA6-F049-E97A02FE53FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
